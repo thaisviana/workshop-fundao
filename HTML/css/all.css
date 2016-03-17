@@ -231,6 +231,7 @@ a:hover{text-decoration:underline;}
 	border-bottom: 1px solid #ebebeb;
 }
 .list_post li.li_1{background: url(../images/info.png) no-repeat 0 50%;}
+.list_post li.li_thais{background: url(../images/thais.jpg) no-repeat 0 50%;}
 .list_post li.li_2{background: url(../images/info2.png) no-repeat 0 50%;}
 .list_post li.li_3{background: url(../images/icon_safety.png) no-repeat 0 50%;}
 .list_post li.li_4{background: url(../images/icon_award.png) no-repeat 0 50%;}
@@ -329,7 +330,7 @@ a:hover{text-decoration:underline;}
 	border-bottom: 1px solid #ebebeb;
 }
 .features_list.none{display: none;}
-.features_list.add{border: none;margin: 0 0 60px;}
+.features_list.add{border: none;margin: 0 0 262px;}
 .features_list li{
 	float:left;
 	width: 29.3%;
@@ -337,8 +338,82 @@ a:hover{text-decoration:underline;}
 	padding:94px 25px 30px;
 	text-align: center;
 }
+
+.thais{background: url(../images/thais.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.raquel{background: url(../images/raquel.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.ester{background: url(../images/ester.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.mari{background: url(../images/mari.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+
+.erik{background: url(../images/erik.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.vanessa{background: url(../images/vanessa.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.paloma{background: url(../images/paloma.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.dix{background: url(../images/dix.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.patricia{background: url(../images/patricia.jpg) no-repeat center ;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
+.silvia{background: url(../images/silvia.jpg) no-repeat center;
+		border-radius: 50%;
+		align: middle;
+		height: 131px;
+		width: 131px;
+}
+
 .features_list li:first-child{border:none;padding:94px 25px 30px 14px;}
+
 .features_list li.li_1{background: url(../images/info.png) no-repeat 48% 26px;}
+.features_list li.li_thais{background: url(../images/thais.jpg) no-repeat 48% 26px;}
 .features_list li.li_2{background: url(../images/info2.png) no-repeat 50% 25px;}
 .features_list li.li_3{background: url(../images/icon_safety_b.png) no-repeat 50% 25px;}
 .features_list li.li_4{background: url(../images/icon_award_b.png) no-repeat 50% 25px;}
@@ -498,6 +573,10 @@ input.send_message{
 		background-image: url(../images/info.png);
 		background-size:32px 34px;
 	}
+	.list_post li.li_thais{
+		background-image: url(../images/thais.jpg);
+		background-size:262px 262px;
+	}
 	.list_post li.li_2{
 		background-image: url(../images/info2.png);
 		background-size:34px 34px;
@@ -533,6 +612,10 @@ input.send_message{
 	.features_list li.li_1{
 		background-image: url(../images/info.png);
 		background-size:48px 51px;
+	}
+	.features_list li.li_thais{
+		background-image: url(../images/thais.jpg);
+		background-size:262px 262px;
 	}
 	.features_list li.li_2{
 		background-image: url(../images/info2.png);
