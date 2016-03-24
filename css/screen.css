@@ -1,0 +1,228 @@
+@media only screen and (max-width : 1190px) {
+	#main {margin:0 20px;}
+	.box_iphone{margin: 0 100px 0 0;}
+	#main h1 {font-size: 52px;line-height: 54px;margin: 0 0 30px;}
+	#main p.text {margin: 0 0 30px;line-height: 24px;}
+	.list_post{margin: 0 0 60px;}
+	.list_post li{padding: 8px 0 2px 54px;}
+	.content.about {
+		margin: 0 10px 0 0;
+		width: 70%;
+		}
+	.plagin_list li a{width: 110px;height: 68px;padding: 22px 0 20px;}
+	.box_iphone.small{width: 25%;}
+	#main h1 {
+		font-size: 49px;
+		line-height: 51px;
+	}
+	.plagin_list li a strong{padding: 5px 0 0 0;font-size: 28px;line-height: 30px;}
+	.plagin_list li a{font-size: 12px;line-height: 14px;}
+	.features_list li,.features_list li:first-child{width: 29%;padding: 94px 15px 30px;} 
+	.box_iphone.horizontal{width: 100%;}
+	.holder_form{margin: 60px 10px 0;}
+	.btn{width: 99%;}
+	input.send_message{width: 99%;}
+	#search{width: 72%;}
+	.holder_form .box_contact{width: 25%;}
+	.main{margin: 0 10px;}
+}
+@media only screen and (max-width : 980px) {
+
+	#header {padding: 0 10px;}
+	#nav ul li {padding: 0 0 0 30px;}
+	.footer-content{padding: 30px 10px;}
+	#main h1 {
+		font-size: 47px;
+		line-height: 49px;
+	}
+	.plagin_list li a {
+		width: 90px;
+		height: 71px;
+		padding: 10px 0 10px;
+		font-size: 10px;
+		line-height: 12px;
+		background-position: 50% 89%;
+	}
+	.plagin_list li a strong {
+		padding: 10px 0 0 0;
+		font-size: 26px;
+		line-height: 28px;}
+	
+}
+@media only screen and (max-width : 880px) {
+	.box_download{margin: 0 auto;}
+	.content.about{float: none;margin: 0 0 20px;width: 100%;}
+	.plagin_list li a {width: 110px;height: 68px;padding: 20px 0 20px;background-position: 50% 81%;}
+	#search{width: 100%;float: none;}
+	.holder_form .box_contact{width: 270px;float: none;margin: 0 auto 10px;}
+
+	.main{margin: 0 10px; width: auto;}
+	.plagin_list {width: 650px;margin: 0 auto;}
+	.holder_form {margin: 40px 0 0;}
+	.holder_form .box_contact{width: 100%;}
+	.holder_form .box_contact ul li {
+		overflow: hidden;
+		margin: 0 0 30px 0;
+		padding: 0 0 7px 0;
+		float: left;
+		width: 33%;
+		}
+	.holder_form .box_contact ul li.phone{
+		text-align: right;
+	}
+	.holder_form .box_contact ul li.lett{
+		text-align: center;
+	}
+	.box_iphone.small.add{display: block!important;margin: 0 0 40px 40px;float: right;width: 200px;}
+	.box_iphone.small{display: none;}
+
+}
+@media only screen and (max-width : 767px) {
+	#map-canvas{
+		height: 365px;
+	}
+	#header{padding:20px 10px;}
+	.logo{margin: 0;float: none;}
+	.menu_trigger {
+		display: block;
+	}
+	#nav {
+		border-top: 1px solid #ebebeb;
+		display: none;
+		padding: 0;
+		margin:10px 0 0 0 ;
+		top: 0;
+		text-align: center;
+		float: none;
+		padding: 20px 0 0 0;
+		}
+	#nav ul{width: 100%;}
+	#nav ul li {
+		display:block;
+		padding: 0;	
+		padding: 0 15px;
+		float:none;
+	}
+	#nav ul a {
+		display:block;
+		padding: 8px;
+		border: none;
+	}
+	#nav ul a:hover {
+		
+		text-decoration:none;
+	}
+	#nav ul a:hover, #nav ul a.active{border:none;}
+	.features_list{display: none;}
+	.features_list.none{display: block;width: 100%;margin: 0;}
+	.features_list.add.none{margin: 0 0 50px;}
+	.features_list li, .features_list li:first-child {width: 45%;}
+	.main .content h1 {font-size: 40px;line-height: 42px;margin: 0 0 20px;}
+	.box_iphone.home{margin:0 auto 30px; float: none;}
+}
+@media only screen and (max-width : 768px) {
+	.box_iphone.home{margin:0 auto 40px; float: none;}
+}
+@media only screen and (max-width : 720px) {
+	.plagin_list {width: 504px;margin: 0 auto;}
+	.plagin_list li a {
+		width: 90px;
+		height: 71px;
+		padding: 10px 0 10px;
+		background-position: 50% 88%;
+	}
+	.plagin_list li{background: url(../images/bg_li2.gif) no-repeat 0 50%;padding: 0 0 0 26px;}
+	.main .content.about h1{font-size: 34px;line-height: 36px;margin: 0 0 20px;}
+	.entry p{margin: 0 0 20px;}
+	.header-holder{margin: 0 0 20px;}
+	.features_list li, .features_list li:first-child {width: 45%;}
+}
+@media only screen and (max-width : 680px) {
+	#search .text{float: none;}
+	#search .row{margin: 0 0 10px;}
+	.btn {width: 99%;}
+	.main .content h1 {font-size: 36px;line-height: 38px;margin: 0 0 20px;}
+	.holder_form .box_contact ul li p{
+		padding: 0 0 7px 39px;
+	}
+	.features_list li, .features_list li:first-child {width: 44%;}
+	.box_iphone.small{display: block!important; margin: 0 auto 40px; float: none; width: 237px;}
+	.box_iphone.small.add{display: none!important;}
+}
+@media only screen and (max-width : 580px) {
+	.holder_form .box_contact{width: 270px;}
+	.holder_form .box_contact ul li{float: none;width: 270px; margin: 0;}
+	.holder_form .box_contact ul li p{float: none;width: 270px; text-align: left; margin: 0 0 20px;}
+	.plagin_list li a{padding: 10px 0 10px;height: 70px;}
+}
+@media only screen and (max-width : 550px) {
+	.footer-content .copy{float: none;text-align: center;margin: 0 0 20px;}
+	.footer-content .social{float: none;margin: 0 auto;}
+	.plagin_list li{background: url(../images/bg_li3.gif) no-repeat 0 50%;padding: 0 0 0 15px;}
+	.main .content.about h1{font-size: 32px;line-height: 34px;margin: 0 0 15px;}
+	.entry p{margin: 0 0 15px;}
+	.plagin_list {width: 330px;margin: 0 auto;}
+	.plagin_list li{background: url(../images/bg_li4.gif) no-repeat 0 50%;padding: 0 0 0 4px;margin: 5px 0 0 5px;}
+	.plagin_list li a {width: 70px;height: 51px;background-position: 50% 85%;margin: 0 0 0 5px;}
+	.plagin_list li a strong {padding: 2px 0 0 0;font-size: 20px;line-height: 22px;}
+	.main .content.about h1 {font-size: 26px;line-height: 32px;}
+	.main .content h1 {font-size: 26px;line-height: 32px;margin: 0 0 20px;}
+	.features_list li, .features_list li:first-child {width: 43%;}
+}
+@media only screen and (max-width : 480px) {
+	.main{margin:0 25px;}
+	.box_iphone{width: 220px;}
+	.main h1{font-size: 24px;line-height: 26px;margin: 0 0 15px;}
+	.main h2{font-size: 25px;line-height: 27px;}
+	.entry {margin: 0 5px 15px;}
+	.features_list.add{
+		margin-bottom: 30px;
+	}
+	.features_list{display: block;}
+	.features_list.none{display: none;}
+	.features_list li,.features_list li:first-child{
+		float: none;
+		width: 100%;
+		border-bottom: 1px solid #ebebeb;
+		border-left: none;
+		padding-left: 0;
+	}
+	.main p.text {margin: 0 5px 30px;line-height: 24px;font-size: 14px;}
+	.holder_form .box_contact{
+		width: auto;
+	}
+	#map-canvas{
+		height: 265px;
+	}
+}
+@media screen and (min-width:240px) and (max-width:420px) {
+	.footer-content{padding: 20px 5px;}
+	#header{padding:20px 0;margin: 0;}
+	.plagin_list{width: 100%;}
+	.plagin_list li,.plagin_list li:first-child{
+		background: url(../images/bg_li4.gif) no-repeat 50% 100%;
+		padding: 0 0 13px;
+		display: block;
+		width: 100%;
+		margin: 5px 0 5px;
+	}
+	.plagin_list li a {
+		width: 110px;
+		height: 70px;
+		padding: 20px 0 20px;
+		margin: 0 auto;
+		background-position: 50% 81%;
+	}
+	.plagin_list li:first-child a{margin: 0 auto;}
+	.plagin_list li a strong {
+		padding: 10px 0 0 0;
+		font-size: 22px;
+		line-height: 24px;
+	}
+	.plagin_list li a{font-size: 12px;line-height: 14px;}
+	.main .content.about h1 {font-size: 21px;line-height: 23px;}
+	.logo{
+		margin-left: 10px;
+	}
+	
+}
