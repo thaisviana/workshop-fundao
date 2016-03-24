@@ -7,7 +7,7 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure, 
+article, aside, canvas, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -18,7 +18,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -46,13 +46,13 @@ table {
 	border-spacing: 0;
 }
 
-a[href], label[for], select, 
+a[href], label[for], select,
 input[type=checkbox], input[type=radio] {
 	cursor: pointer;
 	font-family: 'Montserrat', sans-serif;
 }
 
-button, input[type=button], input[type=image], 
+button, input[type=button], input[type=image],
 input[type=reset], input[type=submit] {
 	padding: 0;
 	overflow: visible;
@@ -69,10 +69,10 @@ input[type=url], input[type=password], input[type=text], input[type=email], inpu
      box-sizing: border-box;-webkit-box-sizing: border-box; -moz-box-sizing: border-box;
 }
 
-button::-moz-focus-inner, 
-input[type=button]::-moz-focus-inner, 
-input[type=image]::-moz-focus-inner, 
-input[type=reset]::-moz-focus-inner, 
+button::-moz-focus-inner,
+input[type=button]::-moz-focus-inner,
+input[type=image]::-moz-focus-inner,
+input[type=reset]::-moz-focus-inner,
 input[type=submit]::-moz-focus-inner {
 	border: 0;
 	font-family: 'Montserrat', sans-serif;
@@ -320,7 +320,7 @@ a:hover{text-decoration:underline;}
 .box_iphone.horizontal{
 	overflow: hidden;
 	margin: 0 auto;
-	width:954px; 
+	width:954px;
 	float: none;
 }
 .features_list{
@@ -547,7 +547,7 @@ input.send_message{
 }
 .footer-content .social li:first-child{margin: 0;}
 .footer-content .social li a{
-	display:block;	
+	display:block;
 	position: relative;
 }
 .footer-content .social li a:hover{opacity: 0.7;}
@@ -563,7 +563,6 @@ input.send_message{
 	}
 	.logo{
 		background-image: url(../images/logo@x2.png);
-		background-size:91px 35px;
 	}
 	.box_download a{
 		background-image: url(../images/heart.png);
@@ -653,7 +652,7 @@ input.send_message{
 		background-image: url(../images/icon_name@x2.png);
 		background-size:24px 28px;
 	}
-	#search input.name:focus{	
+	#search input.name:focus{
 		background-image: url(../images/icon_name_hv@x2.png);
 		background-size:24px 28px;
 	}
