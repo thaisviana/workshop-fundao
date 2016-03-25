@@ -413,6 +413,23 @@ a:hover{text-decoration:underline;}
 		width: 131px;
 }
 
+.organizers {
+	text-align: center;
+}
+
+.organizers li {
+	display: inline-block;
+    padding: 20px 45px;
+}
+
+.organizers img {
+	border-radius: 100%;
+}
+
+.organizers p {
+    padding: 12px 0;
+}
+
 .features_list li:first-child{border:none;padding:94px 25px 30px 14px;}
 
 .features_list li.li_1{background: url(../images/info.png) no-repeat 48% 26px;}
