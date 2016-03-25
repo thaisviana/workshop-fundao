@@ -276,7 +276,10 @@ a:hover{text-decoration:underline;}
 	line-height: 14px;
 	color: #8e2641;
 }
-.box_download:hover{opacity: 0.7;}
+.box_download:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
