@@ -17,7 +17,7 @@
 	}
 	.plagin_list li a strong{padding: 5px 0 0 0;font-size: 28px;line-height: 30px;}
 	.plagin_list li a{font-size: 12px;line-height: 14px;}
-	.features_list li,.features_list li:first-child{width: 29%;padding: 94px 15px 30px;} 
+	.features_list li,.features_list li:first-child{width: 29%;padding: 94px 15px 30px;}
 	.box_iphone.horizontal{width: 100%;}
 	.holder_form{margin: 60px 10px 0;}
 	.btn{width: 99%;}
@@ -47,7 +47,7 @@
 		padding: 10px 0 0 0;
 		font-size: 26px;
 		line-height: 28px;}
-	
+
 }
 @media only screen and (max-width : 880px) {
 	.box_download{margin: 0 auto;}
@@ -99,7 +99,7 @@
 	#nav ul{width: 100%;}
 	#nav ul li {
 		display:block;
-		padding: 0;	
+		padding: 0;
 		padding: 0 15px;
 		float:none;
 	}
@@ -109,7 +109,7 @@
 		border: none;
 	}
 	#nav ul a:hover {
-		
+
 		text-decoration:none;
 	}
 	#nav ul a:hover, #nav ul a.active{border:none;}
@@ -222,7 +222,6 @@
 	.plagin_list li a{font-size: 12px;line-height: 14px;}
 	.main .content.about h1 {font-size: 21px;line-height: 23px;}
 	.logo{
-		margin-left: 10px;
+		margin-left: 30px;
 	}
-	
 }
